@@ -1,6 +1,6 @@
 # TFS Python Script Documentation
 
-**The TFS Python Script is a tool designed to automate the creation of news articles from Excel sheets using the ChatGPT API. This documentation provides a detailed overview of the project, its components, installation instructions, and how to use application.**
+**The TFS Python Script is a tool designed to automate the creation of news articles from Excel sheets using the ChatGPT API. This documentation provides a detailed overview of the project, its components, installation instructions, and how to use the program.**
 
 ## Table of Contents
 
