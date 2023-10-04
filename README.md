@@ -41,9 +41,12 @@ In the `config.json` file, located inside `1 - Config` folder, you can change yo
 
 To run the TFS Python Script:
 - Unzip the downloaded .ZIP file and save the folder `TFS Python Script` to a location of your choice.
+![](https://github.com/f05135/TFS-Python-Script/blob/main/Static%20Media%20Assets/a_unzip_folder_media.gif)
 - Open your preferred IDE as administrator.
 - Navigate to and select the folder `TFS Python Script`.
+![](https://github.com/f05135/TFS-Python-Script/blob/main/Static%20Media%20Assets/b_open_project_folder.gif)
 - Select and run the script `main.py`.
+![](https://github.com/f05135/TFS-Python-Script/blob/main/Static%20Media%20Assets/c_run_main_media.gif)
 
 ## 4. Using the Application
 
