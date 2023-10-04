@@ -63,6 +63,6 @@ To run the TFS Python Script:
 Once the application completes its tasks, you can navigate to the `4 - Upload Files` folder to review the generated Excel files, respectively.
 
 ## 6. Good To Know
-1. **After successfully finishing a run of the script and seeing the message `---- News Articles generated successfully ----` on the terminal/console, delete or transfer to another location all the folders and files created inside `2 - Excel To Text` and `3 - ChatGPT Answers` before running the script again; otherwise, the script will reprocess all those files again.**.
+1. **After successfully finishing a run of the script and seeing the message `---- News Articles generated successfully ----` on the terminal/console, delete or transfer to another location all the folders and files created inside `2 - Excel To Text` and `3 - ChatGPT Answers` before running the script again; otherwise, the script will reprocess all those files again**.
 2. **To avoid losing data in case of insufficient tokens available on the API, it is considered good practice to select up to 10 Excel Files, *or ~50 sheets in total*, to work with per run**.
 3. **[Not Recommended] - In case of an interruption in the middle of a run, all the files that were saved in the `3 - ChatGPT Answers` folder can still be used to be appended into the final Excel file once the script is used again. The same applies to the separated text files inside the `2 - Excel to Text` folder**.
